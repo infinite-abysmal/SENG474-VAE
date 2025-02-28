@@ -26,6 +26,8 @@ share/python-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+stored_models.pickle
+model_info.pickle
 MANIFEST
 
 # PyInstaller
